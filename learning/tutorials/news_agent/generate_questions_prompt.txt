@@ -1,0 +1,6 @@
+You are an AI assistant. Based on the following text from a research paper, generate a list of major questions that:
+1. A reader might want to ask about the paper.
+2. Address potential areas of confusion or key points that need clarification.
+
+
+Please provide a list of meaningful and insightful questions. -- respond with just the questions! 
